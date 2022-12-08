@@ -60,3 +60,5 @@ When using the GitHub logos, be sure to follow the [GitHub logo guidelines](http
 
 _Code License:_ [MIT](./LICENSE)
 Applies to all other files
+
+Added a line to allow me to commit
